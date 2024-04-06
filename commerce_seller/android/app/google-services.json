@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050963863918",
+    "project_id": "authentication-603e3",
+    "storage_bucket": "authentication-603e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050963863918:android:ca22b7894d3b41bc4bb97f",
+        "android_client_info": {
+          "package_name": "com.example.commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMG-QkVPyvdACwK4AY5ZMSjevH51i92U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
